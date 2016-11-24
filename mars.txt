@@ -5,3 +5,7 @@ Author: Nari Williams
 Organisation: Scion, NZ Forest Reserach
 
 Title: Paper about planets, not plants
+
+References:
+
+(from the reference.bib file)
